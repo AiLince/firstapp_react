@@ -2,7 +2,7 @@
   "name": "firstapp_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AiLince/github.io/homework_react",
+  "homepage": "https://AiLince/github.io/firstapp_react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AiLince/homework_react.git"
+    "url": "git+https://github.com/AiLince/firstapp_react.git"
   },
 
   "eslintConfig": {
