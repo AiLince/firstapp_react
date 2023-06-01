@@ -26,7 +26,6 @@
     "type": "git",
     "url": "git+https://github.com/AiLince/firstapp_react.git"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
